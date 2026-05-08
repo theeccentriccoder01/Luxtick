@@ -9,25 +9,25 @@
 ## 🚀 Live Demo
 
 Experience Luxtick live here: 
-👉 [![**Luxtick**](https://img.shields.io/badge/View-Live%20Demo-black?style=for-the-badge)](https://theeccentriccoder.github.io/Luxtick)
+👉 [![**Luxtick**](https://img.shields.io/badge/View-Live%20Demo-black?style=for-the-badge)](https://theeccentriccoder01.github.io/Luxtick)
 
  <div align="center">
  <p>
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat)
-![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder%2FLuxtick%20&countColor=%23263759&style=flat)
-![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder/Luxtick)
-![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder/Luxtick)
-![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder/Luxtick)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder/Luxtick)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder/Luxtick)
-![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder/Luxtick)
-![Github](https://img.shields.io/github/license/theeccentriccoder/Luxtick)
-![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder/Luxtick)
-![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder/Luxtick)
-![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder/Luxtick)
-![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder/Luxtick)
+![Visitors](https://api.visitorbadge.io/api/Visitors?path=theeccentriccoder01%2FLuxtick%20&countColor=%23263759&style=flat)
+![GitHub Forks](https://img.shields.io/github/forks/theeccentriccoder01/Luxtick)
+![GitHub Repo Stars](https://img.shields.io/github/stars/theeccentriccoder01/Luxtick)
+![GitHub Contributors](https://img.shields.io/github/contributors/theeccentriccoder01/Luxtick)
+![GitHub Last Commit](https://img.shields.io/github/last-commit/theeccentriccoder01/Luxtick)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/theeccentriccoder01/Luxtick)
+![GitHub Total Lines](https://sloc.xyz/github/theeccentriccoder01/Luxtick)
+![Github](https://img.shields.io/github/license/theeccentriccoder01/Luxtick)
+![GitHub Issues](https://img.shields.io/github/issues/theeccentriccoder01/Luxtick)
+![GitHub Closed Issues](https://img.shields.io/github/issues-closed-raw/theeccentriccoder01/Luxtick)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr/theeccentriccoder01/Luxtick)
+![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/theeccentriccoder01/Luxtick)
  </p>
  </div>
 
@@ -81,7 +81,7 @@ To run Luxtick:
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/theeccentriccoder/Luxtick.git](https://github.com/theeccentriccoder/Luxtick.git)
+git clone [https://github.com/theeccentriccoder01/Luxtick.git](https://github.com/theeccentriccoder01/Luxtick.git)
 cd Luxtick
 ````
 
@@ -122,6 +122,6 @@ This project is open-source and available under the MIT License.
 
 ## 📞 Contact
 
-Developed by [Eccentric Explorer](https://theeccentriccoder.github.io/Me)
+Developed by [Eccentric Explorer](https://theeccentriccoder01.github.io/Me)
 
 Feel free to reach out with any questions or feedback\!
